@@ -66,7 +66,7 @@
   Weather App ⛈️ - <a href="https://github.com/aleexvdev/weather-app">Repo</a> | <a href="https://weatherapp-alexvdev.netlify.app/" target="_blank">Demo</a><br>
   To Do App 📝 - <a href="https://github.com/aleexvdev/app-todolist/tree/main">Repo</a> | <a href="https://alexvdev-todolist.netlify.app/" target="_blank">Demo</a><br>
   Heroes App 🤖 - <a href="https://github.com/aleexvdev/superhero-app">Repo</a> | <a href="https://heroapp-alexvdev.netlify.app/" target="_blank">Demo</a><br>
-  Food App 🍜 - <a href="[https://github.com/aleexvdev/superhero-app](https://github.com/aleexvdev/food-recipes)">Repo</a> | <a href="[https://foodrecipes-alexvdev.netlify.app/](https://foodrecipes-alexvdev.netlify.app/)" target="_blank">Demo</a><br>
+  Food App 🍜 - <a href="https://github.com/aleexvdev/food-recipes">Repo</a> | <a href="https://foodrecipes-alexvdev.netlify.app/" target="_blank">Demo</a><br>
   Red Social 👽 - in development<br>
   Login Authentication 🤠 - in development<br>
   Ecommerce App 🛒 - in development<br>
