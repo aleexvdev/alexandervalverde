@@ -3,8 +3,7 @@
 </div>
 
 ###
-
-<h1 align="left">Hi! 👋 I'm Alexander 😄</h1>
+<h1 align="left">Hello! I'm Alexander Valverde <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
 
 ###
 
@@ -82,6 +81,31 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=aleexvdev&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=0&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleexvdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleexvdev" alt="aleexvdev" /></a> </p>
+</div>
+
+###
+
+<h2 align="left">✉️ Contact me</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/alexvdev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/alexvalverde666" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/alexvalverde._/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/alexvalverde666" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="valverdealex25@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=valverdealex25@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
@@ -95,5 +119,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleexvdev/alexandervalverde/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aleexvdev/alexandervalverde/output/github-contribution-grid-snake.svg">
 </picture>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alexvdev.alexvdev&left_color=gray&left_text=Profile%20views"  />
+</div>
 
 ###
