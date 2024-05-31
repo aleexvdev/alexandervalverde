@@ -7,21 +7,28 @@
 
 ###
 
-<br clear="both">
 
 <img align="right" height="200" src="https://github.com/aleexvdev/alexandervalverde/blob/main/images/github-cat.gif"  />
 
 ###
 
-<p align="left">I am a passionate Full Stack developer Jr. looking for exciting growth opportunities in technology. My experience in various languages ​​and technologies allows me to transform creative ideas into functional code, and I look to join innovative teams.</p>
+<p align="left">
+I am a Full Stack Developer passionate about creating robust and scalable web applications, excelling in both the front-end and back-end. With a constant focus on continuous improvement and the adoption of new technologies, I am dedicated to offering innovative and efficient solutions. My mission is to transform ideas into impactful digital realities, always seeking to exceed expectations and make a difference in each project.<br>
+I am always open to new opportunities and collaborations. Explore my repositories and feel free to contact me if you want to work together or just chat about technology!
+</p>
 
 ###
 
-<p align="left">🎓 Bachelor of Computer Engineering<br>🚀 True mastery comes through consistency in learning, the willingness to adapt, and perseverance through challenges.<br>📚 Currently, I am learning Vue.JS, Sping Boot and Microsoft Azure.<br>🎮 I love sports and video games.<br>🎧 Code with rock and electronics: my formula to innovate.</p>
+<p align="left">
+🎓 Computer Engineer<br>
+🎮 I love sports and video games.<br>
+🎧 Code with rock and electronics: my formula to innovate.<br>
+🚀 True mastery comes through consistency in learning, the willingness to adapt, and perseverance through challenges.
+</p>
 
 ###
 
-<h2 align="left">🛠️ Languages and Tools</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
@@ -104,6 +111,9 @@
 ###
 
 <div align="left">
+  <a href="https://github.com/aleexvdev" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
   <a href="https://www.linkedin.com/in/alexvdev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
