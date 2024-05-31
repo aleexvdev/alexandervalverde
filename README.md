@@ -85,7 +85,16 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=aleexvdev&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=0&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleexvdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleexvdev" alt="aleexvdev" /></a> </p>
+</div>
+
+###
+
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aleexvdev&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="aleexvdev" />
 </div>
 
 ###
@@ -112,8 +121,6 @@
   </a>
 </div>
 
-###
-
 <h4 align="left">Thank you for visiting my GitHub profile!  <img width="25" src="https://github.com/aleexvdev/alexandervalverde/blob/main/images/cat_2.png"/></h4>
 
 ###
@@ -127,7 +134,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alexvdev.alexvdev&left_color=gray&left_text=Profile%20views"  />
+  <img src="https://visitcount.itsvg.in/api?id=alexvdev&label=Profile%20Views&color=6&icon=8&pretty=true"  />
 </div>
 
 ###
