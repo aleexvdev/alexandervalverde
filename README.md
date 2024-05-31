@@ -42,6 +42,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="Next JS" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind CSS" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo" title="SQL Server" />
@@ -51,6 +53,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" title="Amazon Web Services" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" title="Git" />
 </div>
