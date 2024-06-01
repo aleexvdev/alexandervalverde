@@ -28,7 +28,7 @@ I am always open to new opportunities and collaborations. Explore my repositorie
 
 ###
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left">🛠️ Tech Stack & Tools</h2>
 
 ###
 
