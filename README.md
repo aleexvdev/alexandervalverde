@@ -128,7 +128,7 @@ I am always open to new opportunities and collaborations. Explore my repositorie
 
 ###
 
-<h2 align="left">✉️ Contact me</h2>
+<h2 align="left">✉️ Connect with me</h2>
 
 ###
 
