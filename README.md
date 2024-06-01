@@ -14,7 +14,7 @@
 
 <p align="left">
 I am a Full Stack Developer passionate about creating robust and scalable web applications, excelling in both the front-end and back-end. With a constant focus on continuous improvement and the adoption of new technologies, I am dedicated to offering innovative and efficient solutions. My mission is to transform ideas into impactful digital realities, always seeking to exceed expectations and make a difference in each project.<br>
-I am always open to new opportunities and collaborations. Explore my repositories and feel free to contact me if you want to work together or just chat about technology!
+I am always open to new opportunities and collaborations. Explore my repositories and feel free to contact me if you want us to work together or just chat about technology!
 </p>
 
 ###
