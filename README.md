@@ -133,24 +133,12 @@ I am always open to new opportunities and collaborations. Explore my repositorie
 ###
 
 <div align="left">
-  <a href="https://github.com/aleexvdev" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/alexvdev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/alexvalverde666" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/alexvalverde._/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/alexvalverde666" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="valverdealex25@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=valverdealex25@gmail.com&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+  <a href="https://github.com/aleexvdev"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=GitHub&link=https://github.com/aleexvdev" alt="Github" /></a>
+  <a href="https://www.linkedin.com/in/alexvdev"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexvdev" alt="Linkedin" /></a>
+  <a href="https://www.facebook.com/alexvalverde666"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white&link=https://www.facebook.com/alexvalverde666" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/alexvalverde._/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/alexvalverde._/" alt="Instagram" /></a>
+  <a href="https://x.com/alexvalverde666"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&link=https://x.com/alexvalverde666" alt="Twitter" /></a>
+  <a href="valverdealex25@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=valverdealex25@gmail.com" alt="Gmail" /></a>
 </div>
 
 <h4 align="left">Thank you for visiting my GitHub profile!  <img width="25" src="https://github.com/aleexvdev/alexandervalverde/blob/main/images/cat_2.png"/></h4>
