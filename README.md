@@ -33,6 +33,10 @@ I am always open to new opportunities and collaborations. Explore my repositorie
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" title="HTML5" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" title="CSS3" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" title="JavaScript" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" title="React JS" />
@@ -42,6 +46,8 @@ I am always open to new opportunities and collaborations. Explore my repositorie
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" title="TypeScript" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" title="Node JS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" title="PHP" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo" title="Laravel" />
   <img width="12" />
@@ -59,11 +65,25 @@ I am always open to new opportunities and collaborations. Explore my repositorie
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" title="MongoDB" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo" title="GraphQL" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" title="Amazon Web Services" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" title="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="Docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" title="Linux" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" title="Postman" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" title="Jira" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" title="Trello" />
 </div>
 
 ###
