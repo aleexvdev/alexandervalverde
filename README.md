@@ -71,6 +71,8 @@ I am always open to new opportunities and collaborations. Explore my repositorie
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo" title="Amazon Web Services" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" title="Firebase" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" title="Git" />
