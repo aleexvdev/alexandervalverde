@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="260" style="width: 100%" src="https://github.com/aleexvdev/alexandervalverde/blob/main/images/banner-1.png"  />
+  <img height="auto" style="width: 100%" src="https://github.com/aleexvdev/alexandervalverde/blob/main/images/banner-new-1.jpg"  />
 </div>
 
 ###
