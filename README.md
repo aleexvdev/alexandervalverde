@@ -94,7 +94,7 @@ I am always open to new opportunities and collaborations. Explore my repositorie
 
 <p align="left">
   CodeRender 📸 - <a href="https://github.com/aleexvdev/coderender">Repo</a> | <a href="https://coderender.vercel.app/" target='_blank'>Demo</a><br>
-  Weather App ⛈️ - <a href="https://github.com/aleexvdev/weather-app">Repo</a> | <a href="https://weatherapp-alexvdev.netlify.app/" target='_blank'>Demo</a><br>
+  Weather App ⛈️ - <a href="https://github.com/aleexvdev/app-weather">Repo</a> | <a href="https://app-weather-v2.vercel.app/" target='_blank'>Demo</a><br>
   To Do App 📝 - <a href="https://github.com/aleexvdev/app-todolist/tree/main">Repo</a> | <a href="https://alexvdev-todolist.netlify.app/" target='_blank'>Demo</a><br>
   Heroes App 🤖 - <a href="https://github.com/aleexvdev/superhero-app">Repo</a> | <a href="https://heroapp-alexvdev.netlify.app/" target='_blank'>Demo</a><br>
   Food App 🍜 - <a href="https://github.com/aleexvdev/food-recipes">Repo</a> | <a href="https://foodrecipes-alexvdev.netlify.app/" target='_blank'>Demo</a><br>
