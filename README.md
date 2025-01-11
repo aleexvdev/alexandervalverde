@@ -88,20 +88,25 @@ I am always open to new opportunities and collaborations. Explore my repositorie
 
 ###
 
-<h2 align="left">💼 Recent Projects</h2>
+<h2 align="left">💼 Featured Projects</h2>
 
 ###
 
-<p align="left">
-  CodeRender 📸 - <a href="https://github.com/aleexvdev/coderender">Repo</a> | <a href="https://coderender.vercel.app/" target='_blank'>Demo</a><br>
-  Weather App ⛈️ - <a href="https://github.com/aleexvdev/app-weather">Repo</a> | <a href="https://app-weather-v2.vercel.app/" target='_blank'>Demo</a><br>
-  To Do App 📝 - <a href="https://github.com/aleexvdev/app-todolist/tree/main">Repo</a> | <a href="https://alexvdev-todolist.netlify.app/" target='_blank'>Demo</a><br>
-  Food App 🍜 - <a href="https://github.com/aleexvdev/food-recipes">Repo</a> | <a href="https://foodrecipes-alexvdev.netlify.app/" target='_blank'>Demo</a><br>
-  Mern Authentication 🔒 - <a href="https://github.com/aleexvdev/auth-mern">Repo</a> | <a href="https://auth-mern-alexvdev.netlify.app/" target='_blank'>Demo</a><br>
-  Red Social 👽 - in development<br>
-  Ecommerce App 🛒 - in development<br>
-  Portfolio 💫 - <a href="https://github.com/aleexvdev/portfolio.dev/">Repo</a> | <a href="https://alexvdev.netlify.app/" target='_blank'>Demo</a><br>
-</p>
+<div align="center">
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| **CodeRender 📸** | Modern code screenshot generator for developers. Create stunning code snapshots for social sharing using Next.js and TypeScript. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://coderender.vercel.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/coderender) |
+| **Weather App ⛈️** | Weather App is an interactive web application designed to display accurate and up-to-date weather information. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://app-weather-v2.vercel.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/app-weather) |
+| **Food App 🍜** | A platform to explore and share recipes from around the world, featuring user-friendly search and filtering options. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gamma-connect-demo.com) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/food-recipes) |
+| **Auth Node.js & Next.js 🔒** | Authentication system built with Node.js and Next.js, implementing JWT and OAuth2 for secure and scalable access. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)]() [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)]() |
+| **Auth Laravel 🔒** | In development. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)]() [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)]() |
+| **FinanceFlow 💰** | In development. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)]() [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)]() |
+| **Red Social 👽** | In development. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)]() [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)]() |
+| **ShopNexlar 🛒** | In development. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)]() [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)]() |
+| **Portfolio ✨** | A personal portfolio showcasing my projects, skills, and experiences, built with modern web technologies like Astro, React, TypeScript, and TailwindCSS to ensure optimal performance and responsive design. | [![Demo](https://img.shields.io/badge/Demo-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alexvdev.netlify.app/) [![Code](https://img.shields.io/badge/Code-F37121?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleexvdev/portfolio.dev/) |
+
+</div>
 
 ###
 
@@ -110,12 +115,8 @@ I am always open to new opportunities and collaborations. Explore my repositorie
 ###
 
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=aleexvdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleexvdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  /> -->
-<!--   <a href="https://github.com/aleexvdev/" style="border: none; text-decoration: none;"> -->
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aleexvdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aleexvdev&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-<!--   </a> -->
 </div>
 
 ###
@@ -142,5 +143,11 @@ I am always open to new opportunities and collaborations. Explore my repositorie
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleexvdev/alexandervalverde/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aleexvdev/alexandervalverde/output/github-contribution-grid-snake.svg">
 </picture>
+
+###
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=aleexvdev&style=flat-square&color=blueviolet" alt="Profile views" />
+</div>
 
 ###
