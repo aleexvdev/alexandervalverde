@@ -96,7 +96,6 @@ I am always open to new opportunities and collaborations. Explore my repositorie
   CodeRender 📸 - <a href="https://github.com/aleexvdev/coderender">Repo</a> | <a href="https://coderender.vercel.app/" target='_blank'>Demo</a><br>
   Weather App ⛈️ - <a href="https://github.com/aleexvdev/app-weather">Repo</a> | <a href="https://app-weather-v2.vercel.app/" target='_blank'>Demo</a><br>
   To Do App 📝 - <a href="https://github.com/aleexvdev/app-todolist/tree/main">Repo</a> | <a href="https://alexvdev-todolist.netlify.app/" target='_blank'>Demo</a><br>
-  Heroes App 🤖 - <a href="https://github.com/aleexvdev/superhero-app">Repo</a> | <a href="https://heroapp-alexvdev.netlify.app/" target='_blank'>Demo</a><br>
   Food App 🍜 - <a href="https://github.com/aleexvdev/food-recipes">Repo</a> | <a href="https://foodrecipes-alexvdev.netlify.app/" target='_blank'>Demo</a><br>
   Mern Authentication 🔒 - <a href="https://github.com/aleexvdev/auth-mern">Repo</a> | <a href="https://auth-mern-alexvdev.netlify.app/" target='_blank'>Demo</a><br>
   Red Social 👽 - in development<br>
@@ -106,23 +105,17 @@ I am always open to new opportunities and collaborations. Explore my repositorie
 
 ###
 
-<h2 align="left">🔥 Stats</h2>
+<h2 align="left">🔥 GitHub Analytics</h2>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aleexvdev&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=0&date_format=M j[, Y]&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleexvdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">🏆 GitHub Trophies</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aleexvdev&theme=nord&no-frame=true&no-bg=false&margin-w=4" alt="aleexvdev" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=aleexvdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aleexvdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  /> -->
+<!--   <a href="https://github.com/aleexvdev/" style="border: none; text-decoration: none;"> -->
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aleexvdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aleexvdev&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+<!--   </a> -->
 </div>
 
 ###
@@ -149,11 +142,5 @@ I am always open to new opportunities and collaborations. Explore my repositorie
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aleexvdev/alexandervalverde/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aleexvdev/alexandervalverde/output/github-contribution-grid-snake.svg">
 </picture>
-
-###
-
-<div align="left">
-  <img src="https://visitcount.itsvg.in/api?id=alexvdev&label=Profile%20Views&color=6&icon=8&pretty=true"  />
-</div>
 
 ###
